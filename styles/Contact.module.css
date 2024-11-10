@@ -1,0 +1,16 @@
+/* Contact.module.css */
+.main {
+    background-color: #C5D3E8;
+    padding: 3rem 2rem;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.contactInfo p {
+    margin: 0.5rem 0;
+}
+
+.contactInfo a {
+    color: var(--text-color);
+    text-decoration: underline;
+}

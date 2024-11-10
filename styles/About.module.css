@@ -1,0 +1,17 @@
+.main {
+    background-color: #eaf4ff;
+    padding: 3rem 2rem;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.main ul {
+    list-style-type: none;
+    /* Removes the default bullet points */
+    padding-left: 0;
+    /* Removes default left margin */
+}
+
+.skills {
+    margin-top: 60px;
+}

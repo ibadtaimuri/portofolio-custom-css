@@ -1,0 +1,7 @@
+.footer {
+    background-color: var(--background-color);
+    color: #1a1919cb;
+    text-align: center;
+    padding: 1rem 0;
+    margin-top: 2rem;
+}
